@@ -1,4 +1,4 @@
-# cv
+# BILLY V. WEST (CV)
 
 # PROFILE
 Creative, hard-working, results-oriented and established self-starter. Extensive experience in creating visual language & design systems. Able to direct and lead project team members.
