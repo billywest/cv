@@ -26,9 +26,9 @@ media logins, and other services.
 
 
 ## SKILLS
-- Languages and web technologies: JavaScript, HTML5, CSS3 / SASS, TypeScript, PHP and MySQL
-- Libraries and frameworks: jQuery, ReactJS, Node.js, Express.js, Bootstrap, Foundation
-- Platforms and Tools: Angular, WordPress, NPM, Webpack, GitHub, Gulp, Firebase, MongoDB, Trello, Slack, Postman, Command Line and Browser Developer Tools.
+- Programming Languages: JavaScript, HTML5, CSS3 / SASS, TypeScript, PHP and MySQL
+- Libraries and frameworks: jQuery, ReactJS, Angular, Node.js, Express.js, Bootstrap, Foundation
+- Platforms and Tools: NPM, Webpack, GitHub, Gulp, Wordpress, Firebase, MongoDB, Trello, Slack, Postman, Command Line and Browser Developer Tools.
 - UX / UI designs: Research, branding, strategizing, wireframing, prototyping, execution and analytics. Adobe CC, Sketch and InDesign.
 
 ## EDUCATION
